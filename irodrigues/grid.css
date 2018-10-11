@@ -333,7 +333,7 @@ footer {
 }
 
 .column-left {
-  grid-column: 4 / 7;
+  grid-column: 3 / 2;
 	justify-self: end;
 	align-self: end;
 }
@@ -343,7 +343,7 @@ footer {
 }
 
 .column-right {
-  grid-column: 1 / 7
+  grid-column: 3 / 6;
 	justify-self: end;
 	align-self: end;
 }
